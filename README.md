@@ -4,7 +4,7 @@
 <div align="center">
 
 # RapeSenpai
-**新概念Home游戏**
+**新概念Homo游戏**
 </div>
 
 ## 简介
